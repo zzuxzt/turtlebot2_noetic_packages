@@ -1,6 +1,6 @@
-## turtlebot2_noetic_packages
-## Prerequisites:
-# Ubuntu 20.04
+# turtlebot2_noetic_packages
+# Prerequisites:
+Ubuntu 20.04
 ## Install:
 1. install ros noetic:
 ref:http://wiki.ros.org/noetic/Installation/Ubuntu 
