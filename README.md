@@ -5,8 +5,9 @@
 2. complie and install turtlebot 2 packages:
 ```Bash
 cd ~/catkin_ws/src
-curl -sLf https://raw.githubusercontent.com/zzuxzt/turtlebot2_noetic_packages/master/turtlebot2_noetic_install.sh 
-cd ~/catkin_ws
+wget https://raw.githubusercontent.com/zzuxzt/turtlebot2_noetic_packages/master/turtlebot2_noetic_install.sh 
+sudo sh turtlebot2_noetic_install.sh 
+cd ..
 catkin_make
 ```
 
