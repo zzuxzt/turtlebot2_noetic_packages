@@ -3,7 +3,7 @@ cd turtlebot2_noetic_packages
 
 # pre:
 sudo apt-get install ros-noetic-kobuki*
-sudo apt-get install ros-noetic-joy ros-noetic-joystick-drivers
+# sudo apt-get install ros-noetic-joy ros-noetic-joystick-drivers
 
 # kobuki:
 git clone --branch melodic https://github.com/yujinrobot/kobuki.git
